@@ -5,7 +5,11 @@
  - I used Microsoft SQL server to solve the problems.
  - If you want to replicate the result use [Orders](https://raw.githubusercontent.com/mayankdubey1996/namaste_sql_assignment/main/day_3/orders_table_create_inserts.sql) table to create the table and copy the data.  
 
-***Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far.***
+***Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far. Below are the list of topics discuss in this lecture.***
+ - SELECT statement
+ - WHERE, ORDER BY CLAUSE
+ - LIKE, DISTINCT, BETWEEN, IN, LIKE keyword and '_' [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
+
 
 #### 1- write a sql to get all the orders where customers name has "a" as second character and "d" as fourth character (58 rows)
 
