@@ -8,7 +8,7 @@
 ***Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far. Below are the list of topics discuss in this lecture.***
  - SELECT statement
  - WHERE, ORDER BY CLAUSE
- - LIKE, DISTINCT, BETWEEN, IN, LIKE keyword and '_' [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
+ - LIKE, DISTINCT, BETWEEN, IN, LIKE keywordS and '_' [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
 
 
 #### 1- write a sql to get all the orders where customers name has "a" as second character and "d" as fourth character (58 rows)
