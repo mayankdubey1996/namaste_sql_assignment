@@ -7,6 +7,7 @@
  
 ***Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far.***
 
+####Today's Topic####
 - NULL keyword (e.g. city=null is not valid, city is null -> valid)
 - Aggregation functions: ***Count(), Sum(), Max(), Min(), Avg()***
 - Group By, Having Keyword
