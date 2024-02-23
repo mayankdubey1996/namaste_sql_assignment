@@ -3,7 +3,7 @@
  - Taking Ankit's [Namaste Sql course](https://www.namastesql.com/s/courses/6301f405e4b0238f71788354/take) and below are solutions for Day 3 assignment.
  - I used Microsoft SQL server to solve the problems.
  - If you want to replicate the result use [Orders](https://raw.githubusercontent.com/mayankdubey1996/namaste_sql_assignment/main/day_3/orders_table_create_inserts.sql) query to create the table and copy the data. 
- -
+
  
 ***Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far.***
 
