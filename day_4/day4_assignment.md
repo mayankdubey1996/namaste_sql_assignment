@@ -8,9 +8,9 @@
 ***Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far.***
 
 #### Today's Topic ####
-- NULL keyword (e.g. city=null is not valid, city is null -> valid)
+- `NULL` keyword (e.g. city=null is not valid, city is null -> valid)
 - Aggregation functions: ***Count(), Sum(), Max(), Min(), Avg()***
-- Group By, Having Keyword
+- Keyword: ***Group By, Having*** 
 - [Order of execution](https://www.youtube.com/watch?v=uEmAvzuA7u8)
 
 #### 1- write a update statement to update city as null for order ids :  CA-2020-161389 , US-2021-156909
