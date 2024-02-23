@@ -11,7 +11,7 @@
 - NULL keyword (e.g. city=null is not valid, city is null -> valid)
 - Aggregation functions: ***Count(), Sum(), Max(), Min(), Avg()***
 - Group By, Having Keyword
-- Order of execution
+- [Order of execution](https://www.youtube.com/watch?v=uEmAvzuA7u8)
 
 #### 1- write a update statement to update city as null for order ids :  CA-2020-161389 , US-2021-156909
 
