@@ -41,7 +41,7 @@ GROUP  BY o.category
 
 3- write a query to print dep name and average salary of employees in that dep .
 
-****Run below query before jumping to the solution
+****Run below query before jumping to the solution****
 
 ````sql
 create table employee(
