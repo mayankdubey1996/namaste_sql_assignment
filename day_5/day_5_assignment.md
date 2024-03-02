@@ -2,6 +2,7 @@
 
  - Taking Ankit's [Namaste Sql course](https://www.namastesql.com/s/courses/6301f405e4b0238f71788354/take) and below are solutions for Day 5 assignment.
  - I used Microsoft SQL server to solve the problems.
+ - Create [reutrns](https://github.com/mayankdubey1996/namaste_sql_assignment/blob/main/day_5/returns.sql) table in order to run below query.
 
 Note: please do not use any functions which are not taught in the class. you need to solve the questions only with the concepts that have been discussed so far.
 
